@@ -1,0 +1,9 @@
+name: "S3 Upload"
+description: "uploads a directory to s3"
+author: JimmyMaksymiw
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: upload-cloud
+  color: orange
